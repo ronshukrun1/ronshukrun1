@@ -7,7 +7,7 @@
 
 ### 📞 Contact
 * **Email:** ronshukrun1906@gmail.com
-* **LinkedIn:** [Ron Shukrun]((http://www.linkedin.com/in/ron-shukrun-142a32297))
+* **LinkedIn:** [Ron Shukrun](https://www.linkedin.com/in/ron-shukrun-142a32297/)
 
 ---
 
