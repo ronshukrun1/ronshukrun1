@@ -2,8 +2,6 @@
 
 **B.Sc. Software & Information Systems Engineering student at Ben-Gurion University**
 
-Curious | Problem Solver | Team Player
-
 ---
 
 ### 📞 Contact
@@ -14,10 +12,11 @@ Curious | Problem Solver | Team Player
 
 ### 🛠 Tech Stack
 * **Languages:** C#, Java, Python, JavaScript
-* **Frontend:** Vue 3, React, Vuetify
-* **Backend:** .NET 8, Node.js, Express, ASP.NET Core BFF
-* **Data & ML:** PostgreSQL, MySQL, MongoDB, Redis, XGBoost
-* **Tools & Platforms:** Git, Jira, Confluence, Linux, VMs (Kali, Ubuntu), GCP, Postman
+* **Frontend:** Vue , React
+* **Backend:** Node.js, Express, ASP.NET Core BFF, .NET 8
+* **Data:** PostgreSQL, MySQL, MongoDB, Redis
+* **Tools & Platforms:** Git, Jira, Confluence, Postman, Doker, Cursor, GCP
+* 
 
 ---
 
@@ -28,12 +27,21 @@ Curious | Problem Solver | Team Player
 * Developed an end-to-end platform designed to enable large-scale donation of user-generated conversational data for NLP research, with multi-channel contribution support via WhatsApp, Telegram, and Signal.
 * Built a dedicated researcher dashboard that allows authorized researchers to access and download donated datasets for offline analysis and model development.
 * Implemented scalable backend services and a responsive frontend experience for data contribution, consent-based sharing, and research-oriented data management workflows.
+* Implemented a privacy-first anonymization pipeline to remove or mask personally identifiable information (PII) from donated conversations before researcher access and dataset export.
+* Deployed the system on GCP with a hybrid setup of Compute Engine (VMs) and Cloud Run
+  
 ---
 
+### 🔹 [**AppsFlyer & QueenB - Task Management Application**](https://github.com/hendbishara/QueensMatch)
+*Full Stack Template | React, Node.js, Material UI*
+* Developed a reusable full-stack template for task management applications with a responsive Material UI frontend and Express-based REST API.
+* Implemented production-ready foundations including error handling, loading states, and client/server-side form validation.
+
+---
 ### 🔹 [**Lyrics2Popularity**](https://github.com/maornezer/lyrics2popularity)
 *ML for Song Popularity Prediction | Python*
-* Developed an **ML pipeline** for predicting song popularity using **BERT embeddings** and engineered features.
-* Trained and tuned models (**Random Forest, XGBoost, Neural Networks**) with interpretability analysis via **SHAP**.
+* Developed an ML pipeline for predicting song popularity using BERT embeddings and engineered features.
+* Trained and tuned models (Random Forest, XGBoost, Neural Networks) with interpretability analysis via SHAP.
 * Delivered insights using ROC, Precision, and Recall metrics for robust decision-making.
 
 ---
@@ -43,14 +51,6 @@ Curious | Problem Solver | Team Player
 * Developed a recipe search platform using Vue 3, Bootstrap 5, Node.js, and Express.
 * Designed/documented RESTful APIs with SwaggerHub; integrated Spoonacular API for real-time search.
 * Deployed to Linux server (HTTPS, Certbot), structured data with MySQL.
-
----
-
-### 🔹 [**QueenB - Task Management Application**](https://github.com/hendbishara/QueensMatch)
-*Full Stack Template | React, Node.js, Material UI*
-* Developed a reusable full-stack template for task management applications with a responsive Material UI frontend and Express-based REST API.
-* Implemented production-ready foundations including error handling, loading states, and client/server-side form validation.
-
 
 ---
 
