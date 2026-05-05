@@ -48,7 +48,9 @@ Curious | Problem Solver | Team Player
 
 ### 🔹 [**QueenB - Task Management Application**](https://github.com/hendbishara/QueensMatch)
 *Full Stack Template | React, Node.js, Material UI*
-* Built a responsive task management app using **React 18** and **Material UI** with a well-structured **RESTful API**.
+* Developed a reusable full-stack template for task management applications with a responsive Material UI frontend and Express-based REST API.
+* Implemented production-ready foundations including error handling, loading states, and client/server-side form validation.
+
 
 ---
 
