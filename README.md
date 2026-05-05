@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Ron Shukrun. Welcome to my GitHub
 
 **B.Sc. Software & Information Systems Engineering student at Ben-Gurion University**
-**Curious | Problem Solver | Team Player**
+
+Curious | Problem Solver | Team Player
 
 ---
 
