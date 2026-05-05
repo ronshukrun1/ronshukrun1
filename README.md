@@ -24,10 +24,10 @@ Curious | Problem Solver | Team Player
 # 🚀 Featured Projects
 
 ### 🔹 [**Vox Populi Platform**]()
-*Full-Stack Civic Engagement & Messaging Platform | Node.js, React, PostgreSQL*
-* Developed an end-to-end platform for managing community engagement, integrating multi-channel messaging connectivity (WhatsApp, Telegram, and Signal) with real-time sync services.
-* Built a data-driven donor and activity dashboard with KPI cards and interactive charts (messages trends and weekday activity) for actionable operational insights.
-* Implemented scalable backend architecture with controllers, services, and models, plus responsive frontend UX for settings, help flows, and connection management.
+*Full-Stack Data Donation & Research Platform | Node.js, React, PostgreSQL*
+* Developed an end-to-end platform designed to enable large-scale donation of user-generated conversational data for NLP research, with multi-channel contribution support via WhatsApp, Telegram, and Signal.
+* Built a dedicated researcher dashboard that allows authorized researchers to access and download donated datasets for offline analysis and model development.
+* Implemented scalable backend services and a responsive frontend experience for data contribution, consent-based sharing, and research-oriented data management workflows.
 ---
 
 ### 🔹 [**Lyrics2Popularity**](https://github.com/maornezer/lyrics2popularity)
